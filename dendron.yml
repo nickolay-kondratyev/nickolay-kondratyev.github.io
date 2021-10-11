@@ -30,6 +30,7 @@ scratch:
     dateFormat: y.MM.dd.HHmmss
     addBehavior: asOwnDomain
 site:
+    siteUrl: https://nickolay-kondratyev.github.io/
     copyAssets: true
     siteHierarchies:
         - root
